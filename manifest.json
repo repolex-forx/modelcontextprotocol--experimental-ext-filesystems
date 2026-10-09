@@ -1,0 +1,20 @@
+{
+  "manifest_version": "1.0",
+  "org": "modelcontextprotocol",
+  "repo": "experimental-ext-filesystems",
+  "versions": [
+    {
+      "commit": "52b61dc9d63ac697e627eae24b7924de7685db22",
+      "parsed_at": "2026-10-09T03:41:58.451381+00:00",
+      "tag": "main",
+      "filetree": "filetree/52b61dc9d63ac697e627eae24b7924de7685db22.nq.gz",
+      "blobs": [
+        "blob/261eeb9e9f8b2b4b0d119366dda99c6fd7d35c64.nq.gz",
+        "blob/787ff404126f831f0690b4bf8bee1df2743d764a.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
