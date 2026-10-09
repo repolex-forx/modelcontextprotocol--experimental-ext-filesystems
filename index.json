@@ -1,0 +1,11 @@
+{
+  "org": "modelcontextprotocol",
+  "repo": "experimental-ext-filesystems",
+  "versions": [
+    {
+      "commit": "52b61dc9d63ac697e627eae24b7924de7685db22",
+      "tag": "main",
+      "parsed_at": "2026-10-09T03:47:57.132088+00:00"
+    }
+  ]
+}
